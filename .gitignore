@@ -3,3 +3,4 @@ research.txt
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+report.js
